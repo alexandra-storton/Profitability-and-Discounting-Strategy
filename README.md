@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 
-To identify key drivers of margin erosion and profitability through exploratory data analysis of order, customer, and product data to inform strategic business decisions.
+To provide actionable commercial recommendations to a leadership team facing margin erosion using order, product and customer data to diagnose the root causes and prioritise the highest-ROI interventions.
 
 <br>
 
@@ -14,29 +14,15 @@ The business has experienced rapid expansion over the past two years, driven by 
 
 ## ✅ Executive Summary
 
-Undifferentiated discounting and sub-optimal range development are the primary drivers of margin erosion. Discount optimisation and category rebalancing are crucial next steps to improving profit margins.
+Undifferentiated discounting and sub-optimal category investment are the primary drivers of margin erosion. Despite strong top-line growth, 24% of orders contained at least one loss-making item, and over £550,000 in revenue was unnecessarily lost to discounts on products that don't need them to sell. Two interventions would drive the biggest impact in recovering this loss whilst minising impact on quantities. First, shifting from blanket to targeted discounting through removing discounts from the 38% of products with low price sensitivity — this would generate an estimated £127,600 in additional profit and a 13.5% margin uplift with no change to volume. Second, rebalancing category investment toward Sports and Beauty, which deliver superior unit economics (31.1% and 29.7% average margins respectively, with low return rates and low discount dependency), while rationalising Electronics, Home, Health and Office, which consistently erode margin across all three levers. Returns are a secondary concern being stable at 6.8% year-on-year with no seasonal pattern and should not be the priority. 
 
 <br>
 
-**1. Remove blanket discounting.** 
-* In the last year the average product was sold at a 16.6% discount, with 24% of orders containing at least one loss making item.
-* 38% of products show low discount sensitivity yet are being blanket discounted - resulting in over £550,000 in revenue loss. Removing these discounts will generate an estimated £127,600 in profit, a 13.5% margin uplift.
-* 15 items (6% of range) are highly discount senstitive with >70% of volume being sold at a discount, 7 of which have a margin of <20% - these items should be reviewed immediately.
+## ⚙️ Tools & Analytical Skills Used
 
-<br>
-
-**2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office.** 
-* Sports (11.6% of revenue, 12.9% of profit, 31.1% average margin) and Beauty (7.8% of revenue, 8.2% of profit, 29.7% average margin) demonstrate superior unit economics with higher margins, lower returns and lower discount dependancy.
-* Electronics, Home, Health, and Office erode margin with lower average margins, higher discount sensitivity and higher return rates.
-* Strategic consolidation should target products with margins below 20% and a return rate above 10% in addition.
-* Sports should be invested in as the core offering with increased investment into beauty as it has the potential to become a profit driving category.
-
-<br>
-
-## ⚙️ Tools Used
-
-* **SQL**: CTE's, Joins, Case, Window functions, Aggregate functions
-* **Tableau**: Table Calculations, Dashboard Creation, LOD's, Filters
+* **SQL**: CTE's,joins, case function, window functions, aggregate functions
+* **Tableau**: Table calculations, dashboard creation, LOD's, filters
+* **Analytical Skills**: Discount sensitivty analysis, margin modelling, customer behaviour analysis, product/category segmentation,market basket analysis
     
 <br>
 
@@ -48,9 +34,9 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 * In the last year the average product was sold at a 16.6% discount, with 24% of orders containing at least one loss making item.
 
-* While discounts are contributing to volume and revenue, the blanket approach is unecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these disocunts will add an additional profit of £127,593, improving margin by 13.5% .
+* While discounts are contributing to volume and revenue, the blanket approach is unnecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these discounts will add an additional profit of £127,593, improving margin by 13.5% .
 
-* 6% of the range (15 items) is discount dependant and should be reviewed immediatley.
+* 6% of the range (15 items) is discount dependant and should be reviewed immediately.
   
 <br>
 
@@ -82,7 +68,7 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
  * Return rate stable YoY at 6.8% in the last year, no notable seasonality trend or significant spikes.
 
- * Expected trends including higher priced items and first time buyers seeing higher returns are obsereved.
+ * Expected trends including higher priced items and first time buyers seeing higher returns are observed.
  
  * There may be potential issues with the marketplace platform fit and US operations with both seeing higher return rates - further information should be collected on returns so we can paint a clearer picture of the issue.
 
@@ -92,9 +78,9 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 **1. Develop Optimised Discounting Strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an inital step, remove discounts from low-discount sensitivty products - measure and monitor effects to inform future testing.
 
-**2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL reccomended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office to Beauty expansion.
+**2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL recommended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office to Beauty expansion.
 
-**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimse loss from operational costs in addition to those with >70% voulme sold at discount to minimse margin erosion from discounting.
+**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimse loss from operational costs in addition to those with >70% volume sold at discount to minimse margin erosion from discounting.
 
 <br>
 
