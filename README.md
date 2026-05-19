@@ -34,9 +34,9 @@ Undifferentiated discounting and sub-optimal category investment are the primary
 
 * In the last year the average product was sold at a 16.6% discount, with 24% of orders containing at least one loss making item.
 
-* While discounts are contributing to volume and revenue, the blanket approach is unnecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these discounts will add an additional profit of £127,600, improving margin by 13.5% .
+* While discounts are contributing to volume and revenue, the blanket approach is unnecessarily eroding margin across several SKUs causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these discounts will add an additional profit of £127,600, improving margin by 13.5% .
 
-* 6% of the range (15 items) is discount dependant and should be reviewed immediately.
+* 6% of the range (15 items) is discount dependent and should be reviewed immediately.
   
 <br>
 
@@ -53,7 +53,7 @@ Undifferentiated discounting and sub-optimal category investment are the primary
 
 * Beauty is structurally attractive but underinvested in, seeing an average gross margin of 48.2%. To test the potential of the category we should increase marketing and monitor the sales of a selection of high margin, low discount, low returns products. Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL suggested for their high margins, moderate sales and low return rates - minimising operational burden.
 
-* Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin, >=10% return rates and high discount sensitivty should be reviewed.
+* Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin, >=10% return rates and high discount sensitivity should be reviewed.
 
 <br>
 
@@ -76,11 +76,11 @@ Undifferentiated discounting and sub-optimal category investment are the primary
 
 ## 🚀 Next Steps
 
-**1. Develop Optimised Discounting Strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an inital step, remove discounts from low-discount sensitivty products - measure and monitor effects to inform future testing.
+**1. Develop Optimised Discounting Strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an initial step, remove discounts from low-discount sensitivity products - measure and monitor effects to inform future testing.
 
 **2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL recommended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office to Beauty expansion.
 
-**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimise loss from operational costs in addition to those with >70% volume sold at discount to minimse margin erosion from discounting.
+**3. Rationalise remaining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimise loss from operational costs in addition to those with >70% volume sold at discount to minimise margin erosion from discounting.
 
 <br>
 
