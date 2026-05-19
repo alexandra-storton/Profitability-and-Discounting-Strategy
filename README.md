@@ -14,7 +14,7 @@ The business has experienced rapid expansion over the past two years, driven by 
 
 ## ✅ Executive Summary
 
-Undifferentiated discounting and sub-optimal category investment are the primary drivers of margin erosion. Despite strong top-line growth, 24% of orders contained at least one loss-making item, and over £550,000 in revenue was unnecessarily lost to discounts on products that don't need them to sell. Two interventions would drive the biggest impact in recovering this loss whilst minising impact on quantities. First, shifting from blanket to targeted discounting through removing discounts from the 38% of products with low price sensitivity — this would generate an estimated £127,600 in additional profit and a 13.5% margin uplift with no change to volume. Second, rebalancing category investment toward Sports and Beauty, which deliver superior unit economics (31.1% and 29.7% average margins respectively, with low return rates and low discount dependency), while rationalising Electronics, Home, Health and Office, which consistently erode margin across all three levers. Returns are a secondary concern being stable at 6.8% year-on-year with no seasonal pattern and should not be the priority. 
+Undifferentiated discounting and sub-optimal category investment are the primary drivers of margin erosion. Despite strong top-line growth, 24% of orders contained at least one loss-making item, and over £550,000 in revenue was unnecessarily lost to discounts on products that don't need them to sell. Two interventions would drive the biggest impact in recovering this loss whilst minimising impact on quantities. First, shifting from blanket to targeted discounting through removing discounts from the 38% of products with low price sensitivity — this would generate an estimated £127,600 in additional profit and a 13.5% margin uplift with no change to volume. Second, rebalancing category investment toward Sports and Beauty, which deliver superior unit economics (31.1% and 29.7% average margins respectively, with low return rates and low discount dependency), while rationalising Electronics, Home, Health and Office, which consistently erode margin across all three levers. Returns are a secondary concern being stable at 6.8% year-on-year with no seasonal pattern and should not be the priority. 
 
 <br>
 
@@ -22,7 +22,7 @@ Undifferentiated discounting and sub-optimal category investment are the primary
 
 * **SQL**: CTE's,joins, case function, window functions, aggregate functions
 * **Tableau**: Table calculations, dashboard creation, LOD's, filters
-* **Analytical Skills**: Discount sensitivty analysis, margin modelling, customer behaviour analysis, product/category segmentation,market basket analysis
+* **Analytical Skills**: Discount sensitivity analysis, margin modelling, customer behaviour analysis, product/category segmentation,market basket analysis
     
 <br>
 
@@ -30,11 +30,11 @@ Undifferentiated discounting and sub-optimal category investment are the primary
 
 <br>
 
-**1. Shift blanket discounting startegy to focus on products which maintain margin and continue to shift volume when discounted.**
+**1. Shift blanket discounting srategy to focus on products which maintain margin and continue to shift volume when discounted.**
 
 * In the last year the average product was sold at a 16.6% discount, with 24% of orders containing at least one loss making item.
 
-* While discounts are contributing to volume and revenue, the blanket approach is unnecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these discounts will add an additional profit of £127,593, improving margin by 13.5% .
+* While discounts are contributing to volume and revenue, the blanket approach is unnecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these discounts will add an additional profit of £127,600, improving margin by 13.5% .
 
 * 6% of the range (15 items) is discount dependant and should be reviewed immediately.
   
@@ -80,7 +80,7 @@ Undifferentiated discounting and sub-optimal category investment are the primary
 
 **2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL recommended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office to Beauty expansion.
 
-**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimse loss from operational costs in addition to those with >70% volume sold at discount to minimse margin erosion from discounting.
+**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimise loss from operational costs in addition to those with >70% volume sold at discount to minimse margin erosion from discounting.
 
 <br>
 
