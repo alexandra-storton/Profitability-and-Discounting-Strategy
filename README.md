@@ -15,9 +15,11 @@ The business has experienced rapid expansion over the past two years, driven by 
 ## ✅ Executive Summary
 
 **Undifferentiated discounting and sub-optimal category investment are the primary drivers of margin erosion.**
+
      1. Despite strong top-line growth, 24% of orders contained at least one loss-making item, and over £550,000 in revenue was unnecessarily lost to discounts on products that don't         need them to sell.
   
 **Two interventions would drive the biggest impact in recovering this loss whilst minimising impact on quantities.**
+
      1. Shifting from blanket to targeted discounting through removing discounts from the 38% of products with low price sensitivity — this would generate an estimated £127,600 in            additional profit and a 13.5% margin uplift with no change to volume. 
      2. Rebalancing category investment toward Sports and Beauty, which deliver superior unit economics (31.1% and 29.7% average margins respectively, with low return rates and low           discount dependency), while rationalising Electronics, Home, Health and Office, which consistently erode margin across all three levers.
 
