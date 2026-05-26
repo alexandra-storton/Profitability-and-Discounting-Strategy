@@ -26,6 +26,7 @@ The business has experienced rapid expansion over the past two years, driven by 
 2. Rebalancing category investment toward Sports and Beauty, which deliver superior unit economics (31.1% and 29.7% average margins respectively, with low return rates and low           discount dependency), while rationalising Electronics, Home, Health and Office, which consistently erode margin across all three levers.
 
 <br>
+
 **Returns are a secondary concern being stable at 6.8% year-on-year with no seasonal pattern and should not be the priority.**
 
 <br>
