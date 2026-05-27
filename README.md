@@ -1,4 +1,4 @@
-# Profitability-EDA-for-an-E-Commerce-Business
+# Profitability & Discounting Strategy
 
 ## 📌 Objective
 
